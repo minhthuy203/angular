@@ -1,0 +1,63 @@
+main {
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.nam {
+    display: flex;
+}
+
+h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.donghonam {
+    padding-right: 10px;
+    text-align: center;
+}
+
+.nam img {
+    border: 1px solid #333;
+
+}
+
+.bannerphu {
+    padding-left: 20px;
+}
+
+.donghonam p {
+    padding-bottom: 10px;
+    font-size: 17px;
+}
+
+.donghonam .giatien {
+    font-weight: bold;
+}
+
+.donghonam a {
+    text-decoration: none;
+    color: #333;
+}
+
+.donghonam button {
+    border: none;
+    border: 1px solid #333;
+    width: 130px;
+    height: 30px;
+    font-weight: 500;
+    background-color: white;
+    cursor: pointer;
+}
+
+.donghonam button:hover {
+    background-color: #ffc107;
+}
+
+.ngang {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

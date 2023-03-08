@@ -1,4 +1,3 @@
-/* You can add global styles to this file, and also import other style files */
 * {
     margin: 0;
     padding: 0;
@@ -55,7 +54,34 @@ header {
     padding-right: 20px;
 }
 
+main {
+    margin-left: 25px;
+    width: 1150px;
+    height: 30px;
+    margin-top: 10px;
+}
 
+main h3 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+
+.codien {
+    display: flex;
+}
+
+.rolex {
+    padding-right: 10px;
+}
+
+.timdongho {
+    display: flex;
+}
+
+.rolex1 {
+    padding-right: 20px;
+}
 
 footer {
     background-color: black;
@@ -66,6 +92,7 @@ footer {
     font-family: UTM Avo, Arial, Helvetica, sans-serif;
     width: 1155px;
     margin-left: 20px;
+    margin-top: 1950px;
 }
 
 .hotro {
@@ -103,8 +130,4 @@ footer {
     padding-right: 50px;
     width: 100%;
     margin: auto;
-}
-main {
-    margin-left: 25px;
-    margin-top: 20px;
 }
