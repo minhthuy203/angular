@@ -1,0 +1,62 @@
+{
+"categories": [
+    {
+      "id": 1,
+      "name": "đồng hồ nam",
+      "status": true
+    },
+  {
+      "id": 2,
+      "name": "đồng hồ nữ",
+    "status": false
+    },
+ 
+  ],
+  "product": [
+    {
+      "id": 1,
+    "name": "OYSTER PERPETUAL",
+     "categoryId": 2,
+      "price: 155.00,
+      "status": false,
+      "quantity": 2,
+      "image": "dongho1.1.jpg"
+  },
+    {
+      "id": 2,
+    "name": "OYSTER PERPETUAL",
+     "categoryId": 1,
+      "price: 5000000,
+      "status": true,
+       "quantity": 10,
+      "image": "dongho1.2.jpg"
+  },
+    {
+      "id": 3,
+    "name": "OYSTER PERPETUAL",
+     "categoryId": 2,
+      "price: 180.00,
+      "status": false,
+       "quantity": 12,
+      "image": "dongho1.3.jpg"
+  },
+    {
+      "id": 4,
+    "name": "OYSTER PERPETUAL",
+     "categoryId": 1,
+      "price: 395.00,
+      "status": true,
+       "quantity": 1,
+      "image": "dongho1.4.jpg"
+  },
+    {
+      "id": 5,
+    "name": "OYSTER PERPETUAL",
+     "categoryId": 2,
+      "price: 205.00,
+      "status": false,
+       "quantity": 20,
+      "image": "dongho1.jpg"
+  },
+   ]
+}
