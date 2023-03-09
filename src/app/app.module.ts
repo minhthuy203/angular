@@ -9,6 +9,7 @@ import { RegisterComponent } from './components/register/register.component';
 import { CategoryComponent } from './components/category/category.component';
 import { ProductDetailComponent } from './components/product-detail/product-detail.component';
 import { IndexComponent } from './components/index/index.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { IndexComponent } from './components/index/index.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
